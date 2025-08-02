@@ -15,7 +15,7 @@ A modern B2B Intelligent Anti-Fraud chat platform connecting global buyers and s
 
 📱 Responsive Design - Supports desktop and mobile
 
-Demon website: https://jwdjybbs.manus.space/
+Demo website: https://jwdjybbs.manus.space/
 
 Enter product keywords to automatically search or create a chat room
 ![image](https://github.com/Goodweek/B2B-Intelligent-Anti-Fraud-Chat-Room/blob/master/B2B-Intelligent-Anti-Fraud-Chat-Room1.jpg)
